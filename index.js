@@ -1,13 +1,13 @@
 class Formatter {
-  static capitalize() {
+  static capitalize(string) {
     
   }
   
-  static sanitize() {
+  static sanitize(string) {
     
   }
   
-  static titleize() {
+  static titleize(string) {
     
   }
 }
